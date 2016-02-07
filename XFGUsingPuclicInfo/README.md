@@ -6,7 +6,7 @@ Description:
 
 Keywords:         News Information、Default Rates、Discrete Time Hazard Model 、Empirical Bayes、Bayesian Networks
 
-See also:         
+See also:         CombidD.r , Information.r , forcastVar.r
 
 Author:            Chun-Neng Peng
 

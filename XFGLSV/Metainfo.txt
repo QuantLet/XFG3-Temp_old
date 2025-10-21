@@ -8,12 +8,6 @@ are also provided. All codes are based on the Open-source library: Quantlib.'
 
 Keywords : 'financial, stochastic-process, heston, implied-volatility, exotic-option, option, monte-carlo'
 
-See also : 
-
 Author : Xun Yuan, Jun Zheng
 
-Submitted :
-
-Datafile :
-
-Example : 
+Submitted : 01.06.2018

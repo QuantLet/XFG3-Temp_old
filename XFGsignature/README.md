@@ -13,11 +13,9 @@ Description: Plots realized volatility signature for IBM, 2001-2006. Average tim
 
 Keywords: plot, graphical representation, frequency, volatility, sampling
 
-See also: 
-
 Author: Nicolas Hautsch, Uta Pigorsch
 
-Submitted: 
+Submitted: 01.12.2015
 
 Datafile: ibmsignature.dat
 
